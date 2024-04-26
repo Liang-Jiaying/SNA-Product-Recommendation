@@ -17,3 +17,6 @@ To learn from this data, we employ a graph neural network with the following arc
 ## Results
 
 The results from our model demonstrate a significant improvement over random predictions, indicating that it has learned valuable insights from the training data. These findings suggest that the model could be utilized effectively to recommend products to users given sufficient time and data.
+
+
+A note: we apologize for the messiness of the repository and notebooks. We cycled through testing, feature engineering, trimming, and saving intermediate data repeatedly, leading to very hard-to-follow notebooks
